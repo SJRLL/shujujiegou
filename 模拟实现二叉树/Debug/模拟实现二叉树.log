@@ -1,0 +1,20 @@
+﻿生成启动时间为 2019/7/24 17:40:19。
+     1>项目“C:\Users\一路初心\Documents\Visual Studio 2013\Projects\模拟实现二叉树\模拟实现二叉树\模拟实现二叉树.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\BaiduNetdiskDownload\新建文件夹\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt BinaryTree.c
+         BinaryTree.c
+     1>c:\users\一路初心\documents\visual studio 2013\projects\模拟实现二叉树\模拟实现二叉树\binarytree.c(27): warning C4098: “BinaryTreeDestory”:“void”函数返回值
+     1>c:\users\一路初心\documents\visual studio 2013\projects\模拟实现二叉树\模拟实现二叉树\binarytree.c(58): warning C4029: 声明的形参表不同于定义
+     1>c:\users\一路初心\documents\visual studio 2013\projects\模拟实现二叉树\模拟实现二叉树\binarytree.c(79): warning C4047: “初始化”:“int”与“BTNode *”的间接级别不同
+     1>c:\users\一路初心\documents\visual studio 2013\projects\模拟实现二叉树\模拟实现二叉树\binarytree.c(81): warning C4047: “return”:“BTNode *”与“int”的间接级别不同
+     1>c:\users\一路初心\documents\visual studio 2013\projects\模拟实现二叉树\模拟实现二叉树\binarytree.c(83): warning C4047: “初始化”:“int”与“BTNode *”的间接级别不同
+     1>c:\users\一路初心\documents\visual studio 2013\projects\模拟实现二叉树\模拟实现二叉树\binarytree.c(85): warning C4047: “return”:“BTNode *”与“int”的间接级别不同
+       Link:
+         E:\BaiduNetdiskDownload\新建文件夹\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\一路初心\Documents\Visual Studio 2013\Projects\模拟实现二叉树\Debug\模拟实现二叉树.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\一路初心\Documents\Visual Studio 2013\Projects\模拟实现二叉树\Debug\模拟实现二叉树.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\一路初心\Documents\Visual Studio 2013\Projects\模拟实现二叉树\Debug\模拟实现二叉树.lib" /MACHINE:X86 Debug\BinaryTree.obj
+         Debug\Test.obj
+         模拟实现二叉树.vcxproj -> C:\Users\一路初心\Documents\Visual Studio 2013\Projects\模拟实现二叉树\Debug\模拟实现二叉树.exe
+     1>已完成生成项目“C:\Users\一路初心\Documents\Visual Studio 2013\Projects\模拟实现二叉树\模拟实现二叉树\模拟实现二叉树.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.54
